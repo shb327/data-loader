@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{BBCF6EB6-CE2E-4972-B649-A8BAB44C9B51}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LinqConsoleApp/Dept.cs">
+    <Files>
+      <File FileName="LinqConsoleApp/TasksModels/EmpTask10.cs" Line="1" Column="1" />
+      <File FileName="LinqConsoleApp/TasksModels/EmpTask5.cs" Line="1" Column="1" />
+      <File FileName="LinqConsoleApp/TasksModels/EmpTask6.cs" Line="1" Column="1" />
+      <File FileName="LinqConsoleApp/TasksModels/JobTask7.cs" Line="1" Column="1" />
+      <File FileName="LinqConsoleApp/DataLoader.cs" Line="1" Column="1" />
+      <File FileName="LinqConsoleApp/Dept.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LinqConsoleApp" expanded="True">
+            <Node name="LinqConsoleApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="TasksModels" expanded="True" />
+              <Node name="Dept.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LinqConsoleApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

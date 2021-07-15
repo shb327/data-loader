@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="727fe8e0-7e2c-438a-9759-418f738bc422" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LinqConsoleApp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LinqConsoleApp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LinqConsoleApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LinqConsoleApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp.sln.DotSettings" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp.sln.DotSettings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/LinqSamples.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/LinqSamples.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/LinqConsoleApp.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/LinqConsoleApp.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/LinqConsoleApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/LinqConsoleApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinqConsoleApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LinqConsoleApp/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/Dept.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/Emp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/TasksModels/EmpTask5.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/LinqSamples.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/TasksModels/EmpTask6.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/TasksModels/JobTask7.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/DataLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqConsoleApp/TasksModels/EmpTask10.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LinqConsoleApp/Emp.cs" />
+        <option value="$PROJECT_DIR$/LinqConsoleApp/DataLoader.cs" />
+        <option value="$PROJECT_DIR$/LinqConsoleApp/EmpTask5.cs" />
+        <option value="$PROJECT_DIR$/LinqConsoleApp/TasksModels/EmpTask6.cs" />
+        <option value="$PROJECT_DIR$/LinqConsoleApp/TasksModels/EmpTask7.cs" />
+        <option value="$PROJECT_DIR$/LinqConsoleApp/TasksModels/JobTask7.cs" />
+        <option value="$PROJECT_DIR$/LinqConsoleApp/TasksModels/EmpTask10.cs" />
+        <option value="$PROJECT_DIR$/LinqConsoleApp/Program.cs" />
+        <option value="$PROJECT_DIR$/LinqConsoleApp/LinqSamples.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfemeMfQnimToSPFdCxHdonMEW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LinqConsoleApp" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqConsoleApp/LinqConsoleApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="727fe8e0-7e2c-438a-9759-418f738bc422" name="Default Changelist" comment="" />
+      <created>1589027736040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589027736040</updated>
+      <workItem from="1589027739327" duration="11473000" />
+      <workItem from="1589100591998" duration="1391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="928" height="295" key="GridCell.Tab.0.bottom" timestamp="1589102082192">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="928" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589102082192" />
+    <state width="928" height="295" key="GridCell.Tab.0.center" timestamp="1589102082192">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="928" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589102082192" />
+    <state width="928" height="295" key="GridCell.Tab.0.left" timestamp="1589102082191">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="928" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589102082191" />
+    <state width="928" height="295" key="GridCell.Tab.0.right" timestamp="1589102082192">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="928" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589102082192" />
+    <state width="974" height="363" key="GridCell.Tab.1.bottom" timestamp="1589055208473">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208473" />
+    <state width="974" height="363" key="GridCell.Tab.1.center" timestamp="1589055208472">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208472" />
+    <state width="974" height="363" key="GridCell.Tab.1.left" timestamp="1589055208472">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208472" />
+    <state width="974" height="363" key="GridCell.Tab.1.right" timestamp="1589055208472">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208472" />
+    <state width="974" height="363" key="GridCell.Tab.2.bottom" timestamp="1589055208474">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.2.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208474" />
+    <state width="974" height="363" key="GridCell.Tab.2.center" timestamp="1589055208473">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.2.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208473" />
+    <state width="974" height="363" key="GridCell.Tab.2.left" timestamp="1589055208473">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.2.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208473" />
+    <state width="974" height="363" key="GridCell.Tab.2.right" timestamp="1589055208474">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.2.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208474" />
+    <state width="974" height="363" key="GridCell.Tab.3.bottom" timestamp="1589055208475">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.3.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208475" />
+    <state width="974" height="363" key="GridCell.Tab.3.center" timestamp="1589055208475">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.3.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208475" />
+    <state width="974" height="363" key="GridCell.Tab.3.left" timestamp="1589055208474">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.3.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208474" />
+    <state width="974" height="363" key="GridCell.Tab.3.right" timestamp="1589055208475">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.3.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208475" />
+    <state width="974" height="363" key="GridCell.Tab.4.bottom" timestamp="1589055208477">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.4.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208477" />
+    <state width="974" height="363" key="GridCell.Tab.4.center" timestamp="1589055208476">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.4.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208476" />
+    <state width="974" height="363" key="GridCell.Tab.4.left" timestamp="1589055208476">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.4.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208476" />
+    <state width="974" height="363" key="GridCell.Tab.4.right" timestamp="1589055208476">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="974" height="363" key="GridCell.Tab.4.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589055208476" />
+  </component>
+</project>
